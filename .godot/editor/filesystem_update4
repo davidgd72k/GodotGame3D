@@ -1,5 +1,6 @@
-res://scenes/player.tscn
-res://scenes/player.gd
 res://scenes/main.tscn
+res://scenes/player.tscn
 res://scenes/mob.tscn
+res://scenes/ScoreLabel.gd
 res://scenes/main.gd
+res://scenes/music_player.tscn
