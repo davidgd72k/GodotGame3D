@@ -1,5 +1,5 @@
 # GodotGame3D
 
-Primer juego en 3D que hago con Godot.
+Primer juego en 3D que hago con Godot. Basado totalmente en el tutorial de juego 3D de la documentación oficial de Godot.
 
-(me ha costado un poco subir este repositorio desde el Git de mi Windows 10)
+(Este es el primer proyecto de GitHub que subo usando Git en Windows 10).

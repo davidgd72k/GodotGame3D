@@ -1,4 +1,4 @@
-[gd_scene load_steps=12 format=3 uid="uid://bw0p0vkqu1sng"]
+[gd_scene load_steps=13 format=3 uid="uid://bw0p0vkqu1sng"]
 
 [ext_resource type="PackedScene" uid="uid://dg47oxyvjwdrh" path="res://scenes/player.tscn" id="1_0s7p3"]
 [ext_resource type="Script" path="res://scenes/main.gd" id="1_sbl5b"]
@@ -9,7 +9,10 @@
 [sub_resource type="BoxShape3D" id="BoxShape3D_jotwp"]
 size = Vector3(60, 2, 60)
 
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_2w2ob"]
+
 [sub_resource type="BoxMesh" id="BoxMesh_qi2q5"]
+material = SubResource("StandardMaterial3D_2w2ob")
 size = Vector3(60, 2, 60)
 
 [sub_resource type="StandardMaterial3D" id="StandardMaterial3D_ifpko"]
